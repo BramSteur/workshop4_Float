@@ -1,0 +1,79 @@
+#cotntent {
+    width: 935px;
+    margin: 0 auto; 
+}
+
+div {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+#header {
+    width: 890px;
+    height: 100px;
+}
+
+#sidebar {
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+
+#content {
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+
+#footer {
+    width: 893px;
+    height: 50px;
+    clear: left;
+}
+
+#header img {
+    width: 250px;
+    height: 100px;
+}
+
+#one {
+    width: 125px;
+    height: 50px;
+}
+
+#two {
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+
+#three {
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+
+#four {
+    width: 125px;
+    height: 100px;
+    clear: both;
+}
+
+#five {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#six {
+    width: 90px;
+    height: 90px;
+    float: right;
+}
+
+#seven {
+    width: 100px;
+    height: 10px;
+    float: right;
+}
